@@ -24,7 +24,11 @@
 		</dependency>
 		
 		<!-- test scope -->
-		<!-- EX: add dependency for junit -->
+	        <dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
 
 	</dependencies>
 
